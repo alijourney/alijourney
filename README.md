@@ -21,3 +21,4 @@ Very willing to discuss and learn new technologies for Phoenix, Svelte and AI.
 - **Prisma/Sequelize**
 - **MySQL/Postgresql/MongodDB/Neo4j**
 - **OpenAI/LangChain/LlamaIndex**
+- **REST API/GraphQL/AWS/ElasticSearch/Stripe/Socketio**
