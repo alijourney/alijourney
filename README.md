@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**alijourney/alijourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack developer from Peru, Lima, with 7+ years of experience.
+Experienced in Node.js, React, Svelte, Vue, Elixir, Phoenix, Python, Flask, LangChain, LlamaIndex.
 
-Here are some ideas to get you started:
+“Just as there is no single type of intelligence, there is no single type of AI.” Marvin Minksy
+As a passionate e-learning enthusiast, I am deeply excited about the potential of artificial general intelligence (AGI), virtual reality (VR) and chatbots to revolutionize the way we learn and acquire new knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Very willing to discuss and learn new technologies for Phoenix, Svelte and AI.
+
+## Current tech-stack
+
+- **Typescript/JavaScript**
+- **React/Next.js/Vue/Svelte**
+- **Three.js**
+- **Elixir/Phoenix**
+- **Sanity**
+- **Node.js/Express.js/Nest.js**
+- **Python/Flask**
+- **Supabase**
+- **Prisma/Sequelize**
+- **MySQL/Postgresql/MongodDB/Neo4j**
+- **OpenAI/LangChain/LlamaIndex**
