@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A full-stack developer from Peru, Lima, with 7+ years of experience.
+A full-stack developer from Peru, Lima, with 8+ years of experience.
 Experienced in Node.js, React, Svelte, Vue, Elixir, Phoenix, Python, Flask, LangChain, LlamaIndex.
 
 “Just as there is no single type of intelligence, there is no single type of AI.” Marvin Minksy
